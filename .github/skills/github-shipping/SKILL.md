@@ -1,4 +1,3 @@
-```markdown
 ---
 name: github-shipping
 description: "Workflow for creating GitHub Feature issues and Task sub-issues from approved specs. Use when shipping a spec to GitHub after user approval."
@@ -80,4 +79,3 @@ Each sub-issue body must include:
 - `docs` — documentation changes
 
 If a label doesn't exist yet, ask the user to create it.
-```

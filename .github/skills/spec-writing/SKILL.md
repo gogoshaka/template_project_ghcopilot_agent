@@ -1,4 +1,3 @@
-```markdown
 ---
 name: spec-writing
 description: "Template and workflow for writing product specs and decomposing features into user stories. Use when creating or updating a spec file in .github/specs/."
@@ -74,5 +73,4 @@ T-shirt size: XS / S / M / L / XL — with brief justification.
 | User Story | Issue | Status |
 |------------|-------|--------|
 | (parent)   | —     | —      |
-```
 ```
